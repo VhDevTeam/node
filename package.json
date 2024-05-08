@@ -1,0 +1,28 @@
+{
+  "name": "node_tutor",
+  "version": "1.0.0",
+  "description": "Testing Enviroment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VhDevTeam/node.git"
+  },
+  "keywords": [
+    "testing",
+    "tutor",
+    "thuzi"
+  ],
+  "author": "Thusitha Randunuge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VhDevTeam/node/issues"
+  },
+  "homepage": "https://github.com/VhDevTeam/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
